@@ -10,3 +10,6 @@
 [submodule "2017-prize-eater"]
 	path = 2017-prize-eater
 	url = https://github.com/jowpavan/2017-prize-eater
+[submodule "2016-coin-catcher"]
+	path = 2016-coin-catcher
+	url = https://github.com/jowpavan/2016-coin-catcher
