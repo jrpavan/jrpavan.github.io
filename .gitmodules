@@ -4,3 +4,6 @@
 [submodule "2015-memory-game"]
 	path = 2015-memory-game
 	url = https://github.com/jowpavan/2015-memory-game
+[submodule "2016-rain-of-tacs"]
+	path = 2016-rain-of-tacs
+	url = https://github.com/jowpavan/2016-rain-of-tacs
