@@ -7,3 +7,6 @@
 [submodule "2016-rain-of-tacs"]
 	path = 2016-rain-of-tacs
 	url = https://github.com/jowpavan/2016-rain-of-tacs
+[submodule "2017-prize-eater"]
+	path = 2017-prize-eater
+	url = https://github.com/jowpavan/2017-prize-eater
