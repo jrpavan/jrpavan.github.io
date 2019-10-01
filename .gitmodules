@@ -16,3 +16,6 @@
 [submodule "2016-coin-hunter"]
 	path = 2016-coin-hunter
 	url = https://github.com/jowpavan/2016-coin-hunter
+[submodule "2016-coin-finder"]
+	path = 2016-coin-finder
+	url = https://github.com/jowpavan/2016-coin-finder
