@@ -13,3 +13,6 @@
 [submodule "2016-coin-catcher"]
 	path = 2016-coin-catcher
 	url = https://github.com/jowpavan/2016-coin-catcher
+[submodule "2016-coin-hunter"]
+	path = 2016-coin-hunter
+	url = https://github.com/jowpavan/2016-coin-hunter
