@@ -181,6 +181,34 @@ body {
     text-align: right;
 }
 
+/** HOME SECTION **/
+.home-card-list {
+    text-align: center;
+    margin-top: 5vh;
+    width: 75vw;
+    display: grid;
+    grid-template-areas:
+    "none none none"
+    ". contact .";
+}
+
+.home-card-list .home-card {
+    justify-self: center;
+    border: 1px solid #000;
+    height: 25vh;
+    width: 20vw;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.home-card-list .home-card.contact {
+    grid-area: contact;
+    height: 10vh;    
+    margin-top: 5vh;
+}
 
 /** CONTACT SECTION **/
 
